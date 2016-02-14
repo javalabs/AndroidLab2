@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">AndroidLab2</string>
+
+    <string name="btn_frame_name">Go to \"FrameLayout\"</string>
+    <string name="btn_linear_name">Go to \"LinearLayout\"</string>
+    <string name="btn_table_name">Go to \"TableLayout\"</string>
+    <string name="btn_relative_name">Go to \"RelativeLayout\"</string>
+
+    <string name="btn1_name">Кнопка 1</string>
+    <string name="btn2_name">Кнопка 2</string>
+    <string name="btn3_name">Кнопка 3</string>
+    <string name="btn4_name">Кнопка 4</string>
+
 </resources>
